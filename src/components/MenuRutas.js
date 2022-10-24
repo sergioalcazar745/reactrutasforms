@@ -12,6 +12,7 @@ export default class MenuRutas extends Component {
             <li style={{display: "inline", padding: "15px"}}><a href='/collatz'>Collatz</a></li>
             <li style={{display: "inline", padding: "15px"}}><a href='/tabla-multiplicar'>Tabla de multiplicar</a></li>
             <li style={{display: "inline", padding: "15px"}}><a href='/tabla-multiplicar2'>TablaMultiplicar2</a></li>
+            <li style={{display: "inline", padding: "15px"}}><a href='/seleccion-multiple-forms'>Seleccion Mutiple Forms</a></li>
         </ul>
       </div>
     )
