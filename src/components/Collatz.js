@@ -22,7 +22,7 @@ export default class Collatz extends Component {
         if (resultado == 1) {
           this.setNumero(resultado);
           break;
-        }else{
+        } else {
           this.setNumero(resultado);
         }
       } else {
